@@ -7,8 +7,6 @@ My name is Nikolaj Dyring and I'm a Software Engineer
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=white)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=white)
 ![](https://img.shields.io/badge/Code-Vuetify-informational?style=flat&logo=vuetify&logoColor=white&color=white)
-
-## Work Environment
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=white)
 
 ## Stats
