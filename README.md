@@ -1,4 +1,22 @@
 ### Hi there 👋
+My name is Nikolaj Dyring and I'm a Software Engineer
+
+## Tech
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=white)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=white)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=white)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=white)
+![](https://img.shields.io/badge/Code-Vuetify-informational?style=flat&logo=vuetify&logoColor=white&color=white)
+
+## Work Environment
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=white)
+
+## Stats
+![NikoDyring's Github Stats](https://github-readme-stats.vercel.app/api?username=NikoDyring&show_icons=true&line_height=27&count_private=true&theme=dark)
+![NikoDyring's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoDyring&langs_count=3&theme=dark)
+
+## Notable Repositories
+[![TLDR Dungeon Bot](https://github-readme-stats.vercel.app/api/pin/?username=NikoDyring&repo=tldr-dungeon-bot&theme=dark)](https://github.com/NikoDyring/tldr-dungeon-bot)
 
 <!--
 **NikoDyring/NikoDyring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
