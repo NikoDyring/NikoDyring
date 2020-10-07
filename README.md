@@ -10,8 +10,8 @@ My name is [Nikolaj Dyring Jensen](https://www.linkedin.com/in/nikolaj-dyring-je
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=white)
 
 ## Stats
-![NikoDyring's Github Stats](https://github-readme-stats.vercel.app/api?username=NikoDyring&show_icons=true&line_height=27&count_private=true&theme=synthwave)
-![NikoDyring's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoDyring&langs_count=3&theme=synthwave)
+[![NikoDyring's Github Stats](https://github-readme-stats.vercel.app/api?username=NikoDyring&show_icons=true&line_height=27&count_private=true&theme=synthwave)](https://github.com/NikoDyring)
+[![NikoDyring's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoDyring&langs_count=3&theme=synthwave)](https://github.com/NikoDyring)
 ## Notable Repositories
 [![TLDR Dungeon Bot](https://github-readme-stats.vercel.app/api/pin/?username=NikoDyring&repo=tldr-dungeon-bot&theme=synthwave)](https://github.com/NikoDyring/tldr-dungeon-bot)
 
