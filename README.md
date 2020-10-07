@@ -11,7 +11,7 @@ My name is Nikolaj Dyring and I'm a Software Engineer
 
 ## Stats
 ![NikoDyring's Github Stats](https://github-readme-stats.vercel.app/api?username=NikoDyring&show_icons=true&line_height=27&count_private=true&theme=dark)
-![NikoDyring's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoDyring&langs_count=4&theme=dark)
+![NikoDyring's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoDyring&langs_count=3&theme=dark)
 ## Notable Repositories
 [![TLDR Dungeon Bot](https://github-readme-stats.vercel.app/api/pin/?username=NikoDyring&repo=tldr-dungeon-bot&theme=dark)](https://github.com/NikoDyring/tldr-dungeon-bot)
 
