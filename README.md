@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Nikolaj Dyring and I'm a Software Engineer
+My name is [Nikolaj Dyring Jensen](https://www.linkedin.com/in/nikolaj-dyring-jensen/) and I'm a Software Engineer
 
 ## Tech
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=white)
