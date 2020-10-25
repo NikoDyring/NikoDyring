@@ -14,7 +14,7 @@ My name is [Nikolaj Dyring Jensen](https://www.linkedin.com/in/nikolaj-dyring-je
 [![NikoDyring's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoDyring&langs_count=3&theme=synthwave)](https://github.com/NikoDyring)
 ## Notable Repositories
 [![TLDR Dungeon Bot](https://github-readme-stats.vercel.app/api/pin/?username=NikoDyring&repo=tldr-dungeon-bot&theme=synthwave)](https://github.com/NikoDyring/tldr-dungeon-bot)
-[![Dambusters Website](https://github-readme-stats.vercel.app/api/pin/?username=NikoDyring&repo=dambusters-website&theme=synthwave)](https://github.com/NikoDyring/tldr-dungeon-bot)
+[![Dambusters Website](https://github-readme-stats.vercel.app/api/pin/?username=NikoDyring&repo=dambusters-website&theme=synthwave)](https://github.com/NikoDyring/dambusters-website)
 
 ## Goals for 2020
 - [x] Learn TypeScript
