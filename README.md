@@ -13,7 +13,7 @@ My name is [Nikolaj Dyring Jensen](https://www.linkedin.com/in/nikolaj-dyring-je
 [![NikoDyring's Github Stats](https://github-readme-stats.vercel.app/api?username=NikoDyring&show_icons=true&line_height=27&count_private=true&theme=synthwave)](https://github.com/NikoDyring)
 [![NikoDyring's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoDyring&langs_count=3&theme=synthwave)](https://github.com/NikoDyring)
 ## Notable Repositories
-[![Dambusters - Software Engineering Bachelor](https://github-readme-stats.vercel.app/api/pin/?username=NikoDyring&repo=dambusters-website&theme=synthwave)](https://github.com/NikoDyring/dambusters)
+[![Dambusters - Software Engineering Bachelor](https://github-readme-stats.vercel.app/api/pin/?username=NikoDyring&repo=dambusters&theme=synthwave)](https://github.com/NikoDyring/dambusters)
 
 ## Goals for 2020
 - [x] Learn TypeScript
