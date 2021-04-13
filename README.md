@@ -3,7 +3,9 @@ My name is [Nikolaj Dyring Jensen](https://www.linkedin.com/in/nikolaj-dyring-je
 
 ## 💻 Tech
 [![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
+[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
 [![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
+[![](https://img.shields.io/badge/Code-.Net-informational?style=flat&logo=.Net&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
 [![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
 [![](https://img.shields.io/badge/Code-Vuetify-informational?style=flat&logo=vuetify&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
 [![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
@@ -19,18 +21,3 @@ My name is [Nikolaj Dyring Jensen](https://www.linkedin.com/in/nikolaj-dyring-je
 - [ ] Learn more about Backend Development (C#)
 - [ ] Contribute to more Open Source Projects
 - [ ] Dig deeper into Game Development in Unity & Unreal Engine
-
-<!--
-**NikoDyring/NikoDyring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
