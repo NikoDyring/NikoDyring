@@ -17,7 +17,7 @@ My name is [Nikolaj Dyring Jensen](https://www.linkedin.com/in/nikolaj-dyring-je
 [![Dambusters - Software Engineering Bachelor](https://github-readme-stats.vercel.app/api/pin/?username=NikoDyring&repo=dambusters&theme=synthwave)](https://github.com/NikoDyring/dambusters)
 
 ## Goals for 2021
-- [ ] Land first job as newly graduated
+- [X] Land first job as newly graduated
 - [ ] Learn more about Backend Development (C#)
 - [ ] Contribute to more Open Source Projects
 - [ ] Dig deeper into Game Development in Unity & Unreal Engine
