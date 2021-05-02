@@ -18,6 +18,5 @@ My name is [Nikolaj Dyring Jensen](https://www.linkedin.com/in/nikolaj-dyring-je
 
 ## Goals for 2021
 - [X] Land first job as newly graduated
-- [ ] Learn more about Backend Development (C#)
+- [X] Dig deeper into Game Development in Unity & Unreal Engine
 - [ ] Contribute to more Open Source Projects
-- [ ] Dig deeper into Game Development in Unity & Unreal Engine
