@@ -3,6 +3,7 @@ My name is [Nikolaj Dyring Jensen](https://www.linkedin.com/in/nikolaj-dyring-je
 
 ## 💻 Tech
 [![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
+[![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
 [![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
 [![](https://img.shields.io/badge/Code-.Net-informational?style=flat&logo=.Net&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
