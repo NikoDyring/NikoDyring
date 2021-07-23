@@ -23,3 +23,7 @@ My name is [Nikolaj Dyring Jensen](https://www.linkedin.com/in/nikolaj-dyring-je
 - [ ] Get motorcycle license
 - [ ] Contribute to more Open Source Projects
 - [ ] Move into VR-friendly house/appartment
+- [ ] Reach at least 4 kyu on Codewars
+
+## Codewars
+[![Codewars Profile](https://www.codewars.com/users/NikoDyring/badges/large)](https://www.codewars.com/users/NikoDyring)
