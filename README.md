@@ -21,7 +21,8 @@ My name is [Nikolaj Dyring Jensen](https://www.linkedin.com/in/nikolaj-dyring-je
 - [X] Land first job as newly graduated
 - [X] Dig deeper into Game Development in Unity & Unreal Engine
 - [X] Reach at least 5 kyu on Codewars
-- [ ] Get motorcycle license
+- [X] Get motorcycle license
+- [X] Get a new car (Got a VW Polo 1.2 BlueMotion 2011 now!)
 - [ ] Contribute to more Open Source Projects
 - [ ] Move into VR-friendly house/appartment
 
