@@ -1,31 +1,21 @@
-[![Hi there! ](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f44b&text=Hi%2520there%21%2520)](https://pimp-my-readme.webapp.io)  
-My name is [Nikolaj Dyring Jensen](https://www.linkedin.com/in/nikolaj-dyring-jensen/) and I'm passionate about learning the latest and greatest technologies whether thats the frontend or backend. I enjoy creating sleek and responsive applications in addition to being user friendly. I love working in fast paced environments. I excel at collaborating with teams of different knowledge sets. A versatile programmer with interests in Software Engineering, VR/AR and Game Development. Adaptable and self motivated learner. Interested in new programming technologies, and continuous self improvement. I am currently open to new opportunities within the software engineering discipline and if you feel like we would be a great match, I'd love to hear from you! 
+# 💫About Me :
+My name is Nikolaj Dyring Jensen and I'm passionate about learning the latest and greatest technologies whether thats the frontend or backend. I enjoy creating sleek and responsive applications in addition to being user friendly. I love working in fast paced environments. I excel at collaborating with teams of different knowledge sets. A versatile programmer with interests in Software Engineering, VR/AR and Game Development. Adaptable and self motivated learner. Interested in new programming technologies, and continuous self improvement. I am currently open to new opportunities within the software engineering discipline and if you feel like we would be a great match, I'd love to hear from you!
 
-## 💻 Tech
-[![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
-[![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
-[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
-[![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
-[![](https://img.shields.io/badge/Code-.Net-informational?style=flat&logo=.Net&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
-[![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
-[![](https://img.shields.io/badge/Code-Vuetify-informational?style=flat&logo=vuetify&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
-[![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=orange&color=221a2e&labelColor=3f3a4a)](https://github.com/NikoDyring)
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nikolaj-dyring-jensen) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Zakeovich) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NikoDyring) 
 
-## 📈 Stats
-[![NikoDyring's Github Stats](https://github-readme-stats.vercel.app/api?username=NikoDyring&show_icons=true&line_height=27&count_private=true&theme=synthwave)](https://github.com/NikoDyring)
-[![NikoDyring's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoDyring&langs_count=3&theme=synthwave)](https://github.com/NikoDyring)
-## Notable Repositories
-[![Dambusters - Software Engineering Bachelor](https://github-readme-stats.vercel.app/api/pin/?username=NikoDyring&repo=dambusters&theme=synthwave)](https://github.com/NikoDyring/dambusters)
+# 💻Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=NikoDyring&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NikoDyring&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoDyring&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## Goals for 2021
-- [X] Land first job as newly graduated
-- [X] Dig deeper into Game Development in Unity & Unreal Engine
-- [X] Reach at least 5 kyu on Codewars
-- [X] Get motorcycle license
-- [X] Get a new car (Got a VW Polo 1.2 BlueMotion 2011 now!)
-- [ ] Contribute to more Open Source Projects
-- [ ] Start developing a game for release on Steam / Epic Games Store
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="256px"/>
 
-## Codewars
-[![Codewars Profile](https://www.codewars.com/users/NikoDyring/badges/large)](https://www.codewars.com/users/NikoDyring)
+---
+[![](https://visitcount.itsvg.in/api?id=NikoDyring&icon=3&color=1)](https://visitcount.itsvg.in)
