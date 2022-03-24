@@ -14,8 +14,5 @@ My name is Nikolaj Dyring Jensen and I'm passionate about learning the latest an
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="256px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=NikoDyring&icon=3&color=1)](https://visitcount.itsvg.in)
