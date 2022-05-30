@@ -9,7 +9,7 @@ My name is Nikolaj Dyring Jensen and I'm passionate about learning the latest an
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=NikoDyring&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NikoDyring&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoDyring&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![NikoDyring's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikoDyring)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
