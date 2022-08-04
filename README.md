@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫About Me
 My name is Nikolaj Dyring Jensen and I'm passionate about learning the latest and greatest technologies whether thats the frontend or backend. I enjoy creating sleek and responsive applications in addition to being user friendly. I love working in fast paced environments. I excel at collaborating with teams of different knowledge sets. A versatile programmer with interests in Software Engineering, VR/AR and Game Development. Adaptable and self motivated learner. Interested in new programming technologies, and continuous self improvement. I am currently open to new opportunities within the software engineering discipline and if you feel like we would be a great match, I'd love to hear from you!
 
 ## 🌐Socials
