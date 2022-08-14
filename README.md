@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/NikoDyring/NikoDyring/main/source/readme_header.png "Header")](https://martinheinz.dev/)
+
 # Greetings, stranger! <img src="https://raw.githubusercontent.com/NikoDyring/NikoDyring/main/source/wave.gif?raw=true" width="30px" height="30px" />
 My name is *Nikolaj Dyring Jensen* and I'm _passionate_ about learning the latest and greatest technologies whether thats the frontend or backend. I enjoy creating sleek and responsive applications in addition to being user friendly. I love working in fast paced environments. I excel at collaborating with teams of different knowledge sets. A versatile programmer with interests in Software Engineering, VR/AR and Game Development. Adaptable and self motivated learner. Interested in new programming technologies, and continuous self improvement. I am currently open to new opportunities within the software engineering discipline, if you feel like we would be a great match, I'd love to hear from you!
 
