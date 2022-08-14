@@ -31,6 +31,3 @@ My name is *Nikolaj Dyring Jensen* and I'm _passionate_ about learning the lates
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=NikoDyring&icon=3&color=1)](https://visitcount.itsvg.in)
