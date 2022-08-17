@@ -6,7 +6,8 @@ My name is *Nikolaj Dyring Jensen* and I'm _passionate_ about learning the lates
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nikolaj-dyring-jensen) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Zakeovich) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NikoDyring) 
+[![Twitter](https://img.shields.io/badge/Itch-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://nikodyring.itch.io) 
+[![ItchIO](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NikoDyring)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
