@@ -24,5 +24,5 @@ My name is *Nikolaj Dyring Jensen* and I'm _passionate_ about learning the lates
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NikoDyring&theme=dark)](https://github.com/nikodyring)
+
