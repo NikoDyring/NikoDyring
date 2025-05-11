@@ -11,7 +11,7 @@ My name is *Nikolaj Dyring*, and I have a strong passion for Ruby on Rails devel
 [![CodeWars](https://www.codewars.com/users/NikoDyring/badges/micro)](https://www.codewars.com/users/NikoDyring)
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-RubyMine-informational?style=flat&logo=rubymine&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
